@@ -9,8 +9,8 @@ spring:
         git:
           uri: https://github.com/iasonenrollment/iason-config-repo
           clone-on-start: true
-          username: vbalaji215@gmail.com
-          password: Cognizant#1
+#          username: vbalaji215@gmail.com
+#          password: Cognizant#1
           search-paths: '{application}'
 logging:
   level:
